@@ -854,12 +854,13 @@ text-decoration: none;
         margin-top: 50px;
     }
     .pht {
+        width:80%;
          margin: auto;
          margin-top: 15px;
     }
     .header-text h1{
         font-family: 'sfprodisplay-semibold';
-        font-size: 45px;
+        font-size: 45px!important;
         line-height: 50px;
         display: flex;
         flex-direction: column;
