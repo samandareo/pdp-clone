@@ -854,9 +854,11 @@ text-decoration: none;
         margin-top: 50px;
     }
     .pht {
-        width: 250px;
          margin: auto;
          margin-top: 15px;
+    }
+    .pht > img {
+        width:70vw;
     }
     .header-text h1{
         font-family: 'sfprodisplay-semibold';
