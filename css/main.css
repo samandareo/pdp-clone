@@ -859,8 +859,8 @@ text-decoration: none;
     }
     .header-text h1{
         font-family: 'sfprodisplay-semibold';
-        font-size: 55px;
-        line-height: 60px;
+        font-size: 45px;
+        line-height: 50px;
         display: flex;
         flex-direction: column;
         align-items: center;
