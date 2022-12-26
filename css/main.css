@@ -1203,8 +1203,8 @@ text-decoration: none;
         column-gap: 20px;
     }
     .title-mentors h1 {
-        font-size: 55px;
-        line-height: 65px;
+        font-size: 45px;
+        line-height: 55px;
     }
     .main-section-students {
         flex-direction: column;
